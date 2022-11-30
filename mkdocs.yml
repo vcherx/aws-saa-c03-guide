@@ -4,7 +4,7 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: cyan
+      primary: red
       scheme: default 
       toggle:
         icon: material/weather-night
