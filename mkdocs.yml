@@ -1,0 +1,23 @@
+site_name: AWS SAA C03 Notes
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: red
+      scheme: default 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: red
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
