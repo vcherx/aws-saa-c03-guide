@@ -16,7 +16,7 @@ theme:
       scheme: slate
       toggle:
         icon: material/weather-sunny
-        name: Switch to system preference
+        name: Switch to dark mode
 markdown_extensions:
   - toc:
       permalink: true
