@@ -15,7 +15,7 @@ theme:
       primary: amber
       scheme: slate
       toggle:
-        icon: material/weather-dark
+        icon: material/weather-night
         name: Switch to dark mode
 markdown_extensions:
   - toc:
