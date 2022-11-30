@@ -7,7 +7,7 @@ theme:
       primary: red
       scheme: default 
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to light mode
 
     # Palette toggle for dark mode
@@ -15,7 +15,7 @@ theme:
       primary: red
       scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-light
         name: Switch to dark mode
 markdown_extensions:
   - toc:
