@@ -1,3 +1,3 @@
 # Home
-## AWS Resources for Cert
+## AWS Resources
 
