@@ -21,5 +21,5 @@ markdown_extensions:
   - toc:
       permalink: true
   - attr_list
-repo_url: https://github.com/vcherx/aws-saa-c03-guide
-repo_name: aws-saa-c03-guide
+# repo_url: https://github.com/vcherx/aws-saa-c03-guide
+# repo_name: aws-saa-c03-guide
