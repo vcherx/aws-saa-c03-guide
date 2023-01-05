@@ -4,7 +4,7 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: indigo
+      primary: amber
       scheme: default 
       toggle:
         icon: material/weather-sunny
@@ -12,7 +12,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: indigo
+      primary: amber
       scheme: slate
       toggle:
         icon: material/weather-night
@@ -21,5 +21,3 @@ markdown_extensions:
   - toc:
       permalink: true
   - attr_list
-# repo_url: https://github.com/vcherx/aws-saa-c03-guide
-# repo_name: aws-saa-c03-guide
